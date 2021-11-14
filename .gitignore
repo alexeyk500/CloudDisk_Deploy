@@ -2,7 +2,7 @@
 node_modules
 .idea
 
-files
-static
+#files
+#static
 
 #ver 1.1.3
