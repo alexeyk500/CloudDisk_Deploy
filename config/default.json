@@ -1,0 +1,5 @@
+{
+  "serverPort": 4000,
+  "dbUrl": "mongodb+srv://user:user@clouddisc.vgbey.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "secretKey": "mern-secret-key-alexeyk500"
+}
